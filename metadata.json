@@ -1,0 +1,7 @@
+{
+  "name": "Agentic Maps Assistant",
+  "description": "An interactive frontend that uses a multi-agent system powered by the Gemini API to answer complex questions about Google Maps. It breaks down queries, executes sub-tasks with Maps grounding, and synthesizes a final answer.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
